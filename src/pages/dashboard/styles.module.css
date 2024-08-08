@@ -104,6 +104,13 @@
 }
 
 .taskContent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.taskContent p{
     white-space: pre-wrap;
 }
 
